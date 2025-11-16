@@ -60,8 +60,10 @@ I'm a technical AI/ML enthusiast passionate about building intelligent systems, 
 
 ## Currently Exploring
 
-* Video Super-Resolution Models (EDVR, BasicVSR++)
-* Agentic AI systems and multi-agent LLM workflows
+* Review Helpfulness Prediction using NLP and Transformer-based models
+
+* Building robust text classification pipelines for large-scale review datasets
+  
 * Improving real-time ML deployment pipelines
 
 ---
