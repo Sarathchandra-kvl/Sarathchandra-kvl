@@ -6,10 +6,12 @@
 
 ## About Me
 
+I work in the field of NLP and intelligent systems, with growing experience in building data‑driven applications, retrieval‑based models, and evaluation pipelines. I enjoy understanding how information can be structured, interpreted, and made truly useful—whether through ML models, RAG systems, or data analysis. I'm always excited to explore new fields and take on challenging problems.
 
-I'm a technical AI/ML enthusiast passionate about building intelligent systems, experimenting with deep learning architectures, and developing end-to-end applications. I also enjoy competitive programming and improving my problem-solving skills.
+I'm a technical AI/ML enthusiast passionate about building intelligent systems, experimenting with deep learning architectures, and developing end‑to‑end applications. I also enjoy competitive programming and improving my problem‑solving skills.
 
 Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandra-kvl.github.io/Portfolio/)
+
 ---
 
 ## Tech Stack
@@ -26,7 +28,6 @@ Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandr
 
 ## Featured Projects
 
-
 ### IITI BOT — Your Intelligent Campus Assistant
 
 [View Repository](https://github.com/AbhinavPatel271/IITI_BOT)
@@ -37,7 +38,7 @@ Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandr
 * Integrated Whisper for voice input and gTTS for natural voice output.
 * Structured with separate Document Store, Backend (Pathway), and Frontend for production‑grade modularity.
 
-### GAN-Based Project (Cynaptics Induction Task) (Cynaptics Induction Task)
+### GAN-Based Project (Cynaptics Induction Task)
 
 [View Repository](https://github.com/Sarathchandra-kvl/Cynaptics_Induction_task/tree/main/GAN)
 
@@ -52,6 +53,7 @@ Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandr
 * Built a chatbot leveraging LLMs for dynamic response generation.
 * Implements clean dialog handling and modular design.
 * Focused on improving natural interaction quality.
+
 ---
 
 ## Links & Profiles
@@ -79,7 +81,7 @@ Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandr
 
 ## Connect With Me
 
-* Email: sarathchandrakvl07@gmail.com
+* Email: [sarathchandrakvl07@gmail.com](mailto:sarathchandrakvl07@gmail.com)
 
 ---
 
