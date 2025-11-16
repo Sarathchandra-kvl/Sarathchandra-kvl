@@ -72,7 +72,7 @@ I'm a technical AI/ML enthusiast passionate about building intelligent systems, 
 
 Feel free to reach out for collaborations or project discussions.
 
-Email: *Add your email here*
+Email: sarathchandrakvl07@gmail.com
 
 ---
 
