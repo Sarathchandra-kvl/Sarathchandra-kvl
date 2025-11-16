@@ -16,7 +16,7 @@ Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandr
 
 **Languages:** Python, C++, JavaScript
 
-**ML/AI:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Transformers
+**ML/AI:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Transformers, Neural Networks
 
 **LLM / NLP:** LangChain, Gemini API, Whisper, RAG Systems
 
@@ -26,18 +26,12 @@ Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandr
 
 ## Featured Projects
 
-### Chatbot (LLM-Based Chat System)
 
-[View Repository](https://github.com/Sarathchandra-kvl/Chatbot)
-
-* Built a chatbot leveraging LLMs for dynamic response generation.
-* Implements clean dialog handling and modular design.
-* Focused on improving natural interaction quality.
-
-### IITI BOT — RAG-Based Chatbot
+### IITI BOT — Your Intelligent Campus Assistant
 
 [View Repository](https://github.com/AbhinavPatel271/IITI_BOT)
 
+* Secured 3rd position in AI-ML domain of IIT Indore Summer of Code
 * Intelligent campus assistant built using a multi-agent RAG architecture.
 * Uses LangChain + Gemini for context-aware responses across IIT Indore–specific domains.
 * Integrated Whisper for voice input and gTTS for natural voice output.
@@ -51,6 +45,13 @@ Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandr
 * Trained on image datasets to generate synthetic samples.
 * Demonstrates strong understanding of DL fundamentals.
 
+### Chatbot (LLM-Based Chat System)
+
+[View Repository](https://github.com/Sarathchandra-kvl/Chatbot)
+
+* Built a chatbot leveraging LLMs for dynamic response generation.
+* Implements clean dialog handling and modular design.
+* Focused on improving natural interaction quality.
 ---
 
 ## Links & Profiles
