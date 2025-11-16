@@ -6,12 +6,10 @@
 
 ## About Me
 
-Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandra-kvl.github.io/Portfolio/)
-
-Codeforces: [https://codeforces.com/profile/sarathchandrakvl07](https://codeforces.com/profile/sarathchandrakvl07) (Max Rating: 1380)
 
 I'm a technical AI/ML enthusiast passionate about building intelligent systems, experimenting with deep learning architectures, and developing end-to-end applications. I also enjoy competitive programming and improving my problem-solving skills.
 
+Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandra-kvl.github.io/Portfolio/)
 ---
 
 ## Tech Stack
@@ -80,8 +78,6 @@ I'm a technical AI/ML enthusiast passionate about building intelligent systems, 
 
 ## Connect With Me
 
-* Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandra-kvl.github.io/Portfolio/)
-* Codeforces: [https://codeforces.com/profile/sarathchandrakvl07](https://codeforces.com/profile/sarathchandrakvl07) (Max Rating: 1380)
 * Email: sarathchandrakvl07@gmail.com
 
 ---
