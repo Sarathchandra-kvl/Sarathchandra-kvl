@@ -24,23 +24,20 @@ I'm a technical AI/ML enthusiast passionate about building intelligent systems, 
 
 ## Featured Projects
 
-### Chatbot (LLM-Based Chat System)
 
-[View Repository](https://github.com/Sarathchandra-kvl/Chatbot)
-
-* Built a chatbot leveraging LLMs for dynamic response generation.
-* Implements clean dialog handling and modular design.
-* Focused on improving natural interaction quality.
-
-### IITI BOT — RAG-Based Chatbot
+### IITI BOT — Your Intelligent Campus Assistant
 
 [View Repository](https://github.com/AbhinavPatel271/IITI_BOT)
 
-* RAG chatbot using LangChain + Gemini for context-aware Q&A.
-* Added Whisper-based voice input + gTTS voice output.
-* Supports PDF-based QA and conversational retrieval.
+* Intelligent campus assistant built using a multi-agent RAG architecture.
 
-### GAN-Based Project (Cynaptics Induction Task)
+* Uses LangChain + Gemini for context-aware responses across IIT Indore–specific domains.
+
+* Integrated Whisper for voice input and gTTS for natural voice output.
+
+* Structured with separate Document Store, Backend (Pathway), and Frontend for production-grade modularity.
+
+### GAN-Based Project 
 
 [View Repository](https://github.com/Sarathchandra-kvl/Cynaptics_Induction_task/tree/main/GAN)
 
@@ -48,6 +45,13 @@ I'm a technical AI/ML enthusiast passionate about building intelligent systems, 
 * Trained on image datasets to generate synthetic samples.
 * Demonstrates strong understanding of DL fundamentals.
 
+### Chatbot (LLM-Based Chat System)
+
+[View Repository](https://github.com/Sarathchandra-kvl/Chatbot)
+
+* Built a chatbot leveraging LLMs for dynamic response generation.
+* Implements clean dialog handling and modular design.
+* Focused on improving natural interaction quality.
 ---
 
 ## GitHub Stats
