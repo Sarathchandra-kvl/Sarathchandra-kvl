@@ -59,7 +59,7 @@ Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandr
 ## Links & Profiles
 
 * Portfolio: [https://sarathchandra-kvl.github.io/Portfolio/](https://sarathchandra-kvl.github.io/Portfolio/)
-* Codeforces: [https://codeforces.com/profile/sarathchandrakvl07](https://codeforces.com/profile/sarathchandrakvl07) (Max Rating: 1380)
+* Codeforces: [https://codeforces.com/profile/sarathchandrakvl07](https://codeforces.com/profile/sarathchandrakvl07) (Max Rating: 1441)
 
 ---
 
