@@ -80,21 +80,3 @@ Active in competitive programming with a strong foundation in data structures, e
 
 ---
 
-## ◼ Connect & Stats
-
-<div align="left">
-  <a href="mailto:sarathchandrakvl07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sarathchandrakvl07%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/sarathchandrakvl07">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<br/>
