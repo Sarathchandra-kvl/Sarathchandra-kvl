@@ -98,14 +98,3 @@ Active in competitive programming with a strong foundation in data structures, e
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarathchandrakvl07&bg_color=000000&color=2F80ED&line=2F80ED&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarathchandrakvl07&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=2F80ED" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathchandrakvl07&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=333333" height="165" alt="Top Languages" />
-</div>
